@@ -1,0 +1,14 @@
+{
+  "name": "submodule-lib",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "private": true,
+  "author": "viniciuscosmome",
+  "scripts": {
+    "test": "node ./test/index.test.js"
+  },
+  "dependencies": {
+    "lodash": "4.17.21"
+  }
+}
